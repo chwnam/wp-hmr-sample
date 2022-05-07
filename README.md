@@ -1,4 +1,4 @@
-# React HMR (Hot Module Reloading) Sample Plugin
+# React HMR (Hot Module Replacement) Sample Plugin
 
 ## This plugin uses
 
